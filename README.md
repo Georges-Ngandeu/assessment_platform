@@ -33,7 +33,7 @@
 
 <!-- GETTING STARTED -->
 ## Introduction [](#introduction)
-This project demonstrate an implementation of a  Skill Assessment platoform from idea to implementation using the Mern stack, docker and the microservice approach.  
+This project demonstrate an implementation of a  Skill Assessment platform from idea to implementation using the Mern stack, docker and the microservice approach.  
 
 ## Feature implemented [](#features)
 <ul>
