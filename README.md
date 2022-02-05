@@ -46,20 +46,20 @@ This project demonstrate an implementation of a  Skill Assessment platoform from
   </ul>
 
 ## Mobile UI [](#UIMockup)
-![Demo Animation](/assets/v2/Mobile/BrowseTest.png)
-![Demo Animation](/assets/v2/Mobile/LoginForm.png)
-![Demo Animation](/assets/v2/Mobile/TestResult.png)
-![Demo Animation](/assets/v2/Mobile/TestDetail.png)
-![Demo Animation](/assets/v2/Mobile/SignupForm.png)
-![Demo Animation](/assets/v2/Mobile/TakeTest.png)
+![alt text](/assets/v2/Mobile/BrowseTest.png)
+![alt text](/assets/v2/Mobile/LoginForm.png)
+![alt text](/assets/v2/Mobile/TestResult.png)
+![alt text](/assets/v2/Mobile/TestDetail.png)
+![alt text](/assets/v2/Mobile/SignupForm.png)
+![alt text](/assets/v2/Mobile/TakeTest.png)
 
 ## Web UI [](#UIMockup)
-![Demo Animation](/assets/v2/Web/BrowseTest.png)
-![Demo Animation](/assets/v2/Web/LoginForm.png)
-![Demo Animation](/assets/v2/Web/TestResult.png)
-![Demo Animation](/assets/v2/Web/TestDetail.png)
-![Demo Animation](/assets/v2/Web/SignupForm.png)
-![Demo Animation](/assets/v2/Web/TakeTest.png)
+![alt text](/assets/v2/Web/BrowseTest.png)
+![alt text](/assets/v2/Web/LoginForm.png)
+![alt text](/assets/v2/Web/TestResult.png)
+![alt text](/assets/v2/Web/TestDetail.png)
+![alt text](/assets/v2/Web/SignupForm.png)
+![alt text](/assets/v2/Web/TakeTest.png)
 
 ## Main Technologies Used [](#technologies)
 <ul>
