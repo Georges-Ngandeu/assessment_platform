@@ -46,20 +46,20 @@ This project demonstrate an implementation of a  Skill Assessment platoform from
   </ul>
 
 ## Mobile UI [](#UIMockup)
-![Demo Animation](/assets/v1/Mobile/BrowseTest.png)
-![Demo Animation](/assets/v1/Mobile/LoginForm.png)
-![Demo Animation](/assets/v1/Mobile/LookTestResult.png)
-![Demo Animation](/assets/v1/Mobile/ReadTestDetail.png)
-![Demo Animation](/assets/v1/Mobile/SignupForm.png)
-![Demo Animation](/assets/v1/Mobile/TakeTheTest.png)
+![Demo Animation](/assets/v2/Mobile/BrowseTest.png)
+![Demo Animation](/assets/v2/Mobile/LoginForm.png)
+![Demo Animation](/assets/v2/Mobile/TestResult.png)
+![Demo Animation](/assets/v2/Mobile/TestDetail.png)
+![Demo Animation](/assets/v2/Mobile/SignupForm.png)
+![Demo Animation](/assets/v2/Mobile/TakeTest.png)
 
 ## Web UI [](#UIMockup)
-![Demo Animation](/assets/v1/Web/BrowseTest.png)
-![Demo Animation](/assets/v1/Web/LoginForm.png)
-![Demo Animation](/assets/v1/Web/LookTestResult.png)
-![Demo Animation](/assets/v1/Web/ReadTestDetail.png)
-![Demo Animation](/assets/v1/Web/SignupForm.png)
-![Demo Animation](/assets/v1/Web/TakeTheTest.png)
+![Demo Animation](/assets/v2/Web/BrowseTest.png)
+![Demo Animation](/assets/v2/Web/LoginForm.png)
+![Demo Animation](/assets/v2/Web/TestResult.png)
+![Demo Animation](/assets/v2/Web/TestDetail.png)
+![Demo Animation](/assets/v2/Web/SignupForm.png)
+![Demo Animation](/assets/v2/Web/TakeTest.png)
 
 ## Main Technologies Used [](#technologies)
 <ul>
