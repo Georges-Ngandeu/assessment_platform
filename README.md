@@ -46,18 +46,18 @@ This project demonstrate an implementation of a  Skill Assessment platform from 
   </ul>
 
 ## Mobile UI [](#UIMockup)
-![alt text](/assets/v2/Mobile/BrowseTest.png)
+![alt text](/assets/v3/Mobile/BrowseTest.png)
 ![alt text](/assets/v2/Mobile/LoginForm.png)
 ![alt text](/assets/v2/Mobile/TestResult.png)
-![alt text](/assets/v2/Mobile/TestDetail.png)
+![alt text](/assets/v3/Mobile/TestDetail.png)
 ![alt text](/assets/v2/Mobile/SignupForm.png)
 ![alt text](/assets/v2/Mobile/TakeTest.png)
 
 ## Web UI [](#UIMockup)
-![alt text](/assets/v2/Web/BrowseTest.png)
+![alt text](/assets/v3/Web/BrowseTest.png)
 ![alt text](/assets/v2/Web/LoginForm.png)
 ![alt text](/assets/v2/Web/TestResult.png)
-![alt text](/assets/v2/Web/TestDetail.png)
+![alt text](/assets/v3/Web/TestDetail.png)
 ![alt text](/assets/v2/Web/SignupForm.png)
 ![alt text](/assets/v2/Web/TakeTest.png)
 
